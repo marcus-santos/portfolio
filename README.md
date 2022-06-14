@@ -1,9 +1,9 @@
 # Portfolio
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcus-santos/portfolio/master?labpath=index.ipynb)
 
 Modern Portfolio Theory studies
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+https://mybinder.org/v2/gh/marcus-santos/portfolio/master?labpath=index.ipynb
